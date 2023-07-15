@@ -1,3 +1,11 @@
+This repo is only for learn and research how DeepDanbooru, a interesting small project for deep learning, works. 
+
+The original repo is at https://github.com/KichangKim/DeepDanbooru.
+
+The future works may include find the core code and figure out how it works.
+
+---
+
 # DeepDanbooru
 [![Python](https://img.shields.io/badge/python-3.6-green)](https://www.python.org/doc/versions/)
 [![GitHub](https://img.shields.io/github/license/KichangKim/DeepDanbooru)](https://opensource.org/licenses/MIT)
